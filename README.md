@@ -73,8 +73,9 @@ git clone https://github.com/YOUR_USERNAME/ai-research-agent.git
 cd ai-research-agent
 ```
 ### 2. Create virtual environment (optional but recommended)
+```bash
 python -m venv venv
-
+```
 # Activate environment
 ```bash
 source venv/bin/activate   # Mac/Linux
