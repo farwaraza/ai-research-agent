@@ -53,14 +53,16 @@ Displays results in real time and allows PDF download.
 
 ## Project Structure
 
+```
 AI-Research-Agent/
 │
-├── app.py # Streamlit UI
-├── agent.py # Agent workflow logic
-├── prompts.py # Prompt templates
-├── requirements.txt # Dependencies
+├── app.py              # Streamlit UI
+├── agent.py            # Agent workflow logic
+├── prompts.py          # Prompt templates
+├── requirements.txt    # Dependencies
 ├── .gitignore
 └── README.md
+```
 
 ---
 
