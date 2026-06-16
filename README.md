@@ -78,7 +78,7 @@ cd ai-research-agent
 ```bash
 python -m venv venv
 ```
-# Activate environment
+## Activate environment
 ```bash
 source venv/bin/activate   # Mac/Linux
 venv\Scripts\activate      # Windows
