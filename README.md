@@ -71,7 +71,7 @@ AI-Research-Agent/
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/ai-research-agent.git
+git clone https://github.com/farwaraza/ai-research-agent
 cd ai-research-agent
 ```
 ### 2. Create virtual environment (optional but recommended)
